@@ -1,0 +1,86 @@
+#video_username{
+background-color:#393838;
+position:absolute;
+min-width: 400px;
+margin-left: 37%;
+margin-top: 30%;
+z-index: 100;
+}
+
+#video_input{
+color:white;
+}
+#user_video1{
+ object-fit: fill;
+ width: 60%;
+ height: 30%;
+}
+
+#user_video2{
+margin: 10px;
+object-fit: fill;
+width: 50%;
+height: 70%;
+}
+#user_video_div{
+z-index: 0;
+justify-content: center;
+text-align: center;
+padding-top: 40px;
+}
+#video_model{
+overflow: auto;
+overflow-y:auto;
+height: 400px;
+}
+#video_clipboard{
+background-color: #3f51b5;
+color:white;
+margin-left: 20px;
+margin-top: 10px;
+width: 120px;
+font-size: 11px;
+}
+.flex-container {
+    height: calc(100% - 150px);
+    width: 100%;
+    /* margin: 0 auto; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 85vh;
+    width: 100%;
+    max-width: 100%;
+    max-height: 85vh;
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.div-send-msg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn-down {
+    bottom: 0px;
+    height: auto;
+    margin-left: 42%;
+    position: absolute;
+    background-color:#393838;
+}
+.stylebutton{
+    color:white;
+}
+.end{
+    background-color: #9d2e42 !important;
+    border-radius: 0 !important;
+    color:#9d2e42;;
+}
