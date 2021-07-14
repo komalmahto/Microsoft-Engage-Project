@@ -85,6 +85,7 @@ Open browser and goto http://localhost:3000/
 #### Signup Page
 ---
 <img src="/Screenshorts/2.png">
+<img src="/Screenshorts/2(1).png">>
 
 #### Home Page
 ---
@@ -93,27 +94,21 @@ Open browser and goto http://localhost:3000/
 #### Chat Page 
 ---
 <img src="/Screenshorts/4(1).png">
-#####
 <img src="/Screenshorts/5(1).png">
-#####
 <img src="/Screenshorts/6(1).png">
-#####
+
 <img src="/Screenshorts/6(2).png">
 
 #### Video Meet
 ---
 <img src="/Screenshorts/7.png">
-#####
 <img src="/Screenshorts/8.png">
-#####
 <img src="/Screenshorts/9.png">
-#####
 <img src="/Screenshorts/10.png">
 
 #### Notes
 ---
 <img src="/Screenshorts/12.png">
-#####
 <img src="/Screenshorts/13.png">
 
 #### Logout 
